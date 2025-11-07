@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epg.136605.xyz/9days.xml.gz"
-#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://live.fanmingming.cn/tv/常州新闻综合.png" group-title="本地频道",常州新闻综合
+#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://gh-proxy.com/https://github.com/sharnself/IPTV-2/blob/main/logo/常州新闻综合.png" group-title="本地频道",常州新闻综合
 http://192.168.31.66:666/udp/239.49.0.221:9594
-#EXTINF:-1 tvg-name="常州生活" tvg-logo="https://live.fanmingming.cn/tv/常州生活.png" group-title="本地频道",常州生活
+#EXTINF:-1 tvg-name="常州生活" tvg-logo="https://gh-proxy.com/https://github.com/sharnself/IPTV-2/blob/main/logo/常州生活.png" group-title="本地频道",常州生活
 http://192.168.31.66:666/udp/239.49.0.219:9586
-#EXTINF:-1 tvg-name="常州都市" tvg-logo="https://live.fanmingming.cn/tv/常州都市.png" group-title="本地频道",常州都市
+#EXTINF:-1 tvg-name="常州都市" tvg-logo="https://gh-proxy.com/https://github.com/sharnself/IPTV-2/blob/main/logo/常州都市.png" group-title="本地频道",常州都市
 http://192.168.31.66:666/udp/239.49.0.220:9590
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://192.168.31.66:666/udp/239.49.8.19:9614
@@ -119,9 +119,9 @@ http://192.168.31.66:666/udp/239.49.0.235:8000
 http://192.168.31.66:666/udp/239.49.8.115:8000
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="教育频道",CETV4
 http://192.168.31.66:666/udp/239.49.0.125:8000
-#EXTINF:-1 tvg-name="湖南卫视茶频道" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视茶频道.png" group-title="其他频道",湖南卫视茶频道
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://gh-proxy.com/https://github.com/sharnself/IPTV-2/blob/main/logo/湖南茶频道.png" group-title="其他频道",茶频道
 http://192.168.31.66:666/udp/239.49.0.146:8000
-#EXTINF:-1 tvg-name="湖南卫视金鹰纪实" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视金鹰纪实.png" group-title="其他频道",湖南卫视金鹰纪实
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gh-proxy.com/https://github.com/sharnself/IPTV-2/blob/main/logo/湖南金鹰纪实.png" group-title="其他频道",金鹰纪实
 http://192.168.31.66:666/udp/239.49.8.79:8000
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="外语频道",CGTN
 http://192.168.31.66:666/udp/239.49.0.9:8064
@@ -163,8 +163,3 @@ http://192.168.31.66:666/udp/239.49.1.66:8000
 http://192.168.31.66:666/udp/239.49.1.64:8000
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场4K.png" group-title="4K频道",欢笑剧场4K
 http://192.168.31.66:666/udp/239.49.8.106:8000
-
-
-
-
-
