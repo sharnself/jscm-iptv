@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.136605.xyz/9days.xml.gz"
-#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://gh-proxy.com/https://github.com/sharnself/IPTV-2/blob/main/logo/常州新闻.png" group-title="本地频道",常州新闻综合
+#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://gh-proxy.com/https://github.com/sharnself/IPTV-2/blob/main/logo/常州新闻综合.png" group-title="本地频道",常州新闻综合
 http://192.168.31.66:666/udp/239.49.1.83:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-name="常州生活" tvg-logo="https://gh-proxy.com/https://github.com/sharnself/IPTV-2/blob/main/logo/常州生活.png" group-title="本地频道",常州生活
 http://192.168.31.66:666/udp/239.49.1.85:8000?fcc=180.100.72.185:15970
